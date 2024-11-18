@@ -1,0 +1,17 @@
+1731935470911	geckodriver	INFO	Listening on 127.0.0.1:39823
+1731935470933	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepip0d6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1731935471396	Marionette	INFO	Marionette enabled
+[Parent 1324487, Main Thread] WARNING: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.: 'glib warning', file /builds/worker/checkouts/gecko/toolkit/xre/nsSigHandlers.cpp:187
+
+(firefox:1324487): Gtk-WARNING **: 15:11:11.479: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+1731935471609	Marionette	INFO	Listening on port 36217
+WebDriver BiDi listening on ws://127.0.0.1:38585
+Read port: 36217
+1731935471716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38585/devtools/browser/d57c2cbc-ebc8-4fb3-ac94-78438ced34f6
+1731935475923	Marionette	INFO	Stopped listening on port 36217
